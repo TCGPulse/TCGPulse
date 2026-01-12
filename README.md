@@ -1,16 +1,15 @@
-## Hi there 👋
+# TCG Pulse 🎴
+**AI-Powered Trading Card Collection Management**
 
-<!--
-**TCGPulse/TCGPulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TCG Pulse is a high-performance mobile application designed for collectors to identify, track, and value their trading cards with precision. Built with a security-first architecture.
 
-Here are some ideas to get you started:
+## ⚖️ Legal & Privacy
+To ensure compliance with App Store requirements and user data protection, please refer to the following documents:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Privacy Policy](./PRIVACY.md) - Details on data minimization and local storage.
+* [Terms of Service](./TERMS.md) - Usage agreements and pricing disclaimers.
+
+For inquiries, contact: **TCGPulse@proton.me**
+
+---
+© 2026 TCG Pulse. All rights reserved.
