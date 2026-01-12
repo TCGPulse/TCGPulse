@@ -1,0 +1,37 @@
+
+Privacy Policy
+Last updated: January 2025
+Introduction
+TCG Pulse ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Information We Collect
+
+• Collection Data: Card names, set information, purchase prices, and notes you enter about your trading card collection.
+• Images: Photos you take or upload for card identification. These are processed for AI identification and stored locally on your device.
+• Usage Data: Anonymous analytics about app usage to improve our service.
+How We Use Your Information
+
+• To identify trading cards using AI vision technology
+• To provide estimated pricing information
+• To store and manage your collection locally on your device
+• To improve our services and user experience
+Data Storage
+Your collection data is stored locally on your device using secure storage. We do not upload your collection to external servers unless you explicitly choose to export or backup your data. Card images sent for AI identification are processed in real-time and not permanently stored on our servers.
+Third-Party Services
+We use the following third-party services:
+• AI Services: Claude AI or OpenAI for card identification
+• RevenueCat: For subscription management
+• Expo: For app infrastructure and updates
+Your Rights
+You have the right to:
+• Access your personal data
+• Delete your data by clearing the app or uninstalling
+• Export your collection data at any time
+• Opt-out of analytics (contact us)
+Children's Privacy
+Our app is not intended for children under 13. We do not knowingly collect information from children under 13 years of age.
+Changes to This Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.
+Contact Us
+If you have questions about this Privacy Policy, please contact us at:
+
+support@tcgpulse.app
