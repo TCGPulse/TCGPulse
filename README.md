@@ -1,4 +1,4 @@
-# TCG Pulse 🎴
+# TCGPulse 🎴
 **AI-Powered Trading Card Collection Management**
 
 TCG Pulse is a high-performance mobile application designed for collectors to identify, track, and value their trading cards with precision. Built with a security-first architecture.
